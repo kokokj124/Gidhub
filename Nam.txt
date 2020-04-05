@@ -1,3 +1,7 @@
 Helol
 Anh nho em nhieu lam
+<<<<<<< HEAD
 ahihi do ngoc
+=======
+Nhieu La Bao Nhieu
+>>>>>>> 9440547e68e77cf33214742e41cb7e26c27eb11b
